@@ -1,6 +1,6 @@
 Noise Experiment 
 ================
-
+=========
 Motivation/Introduction
        =========
 
@@ -19,7 +19,7 @@ We know repeated exposure to a set of stimuli will produce the familiarity effec
 
 
 
-
+========
 Method/Protocol
     ========
 
@@ -41,7 +41,7 @@ Day 5:  We used 10 familiar stimuli along with 10 novel images for 12 different 
 
 
 
-
+========
 Preliminary Analysis
     ========
 

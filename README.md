@@ -16,6 +16,10 @@ We know repeated exposure to a set of stimuli will produce the familiarity effec
 
 
 
+
+
+
+
 Method/Protocol
     ========
 
@@ -32,6 +36,10 @@ Day 3:   The same 10 stimuli, but in only two noise patterns, each presented 50 
 Day 4:  Repeat Day 2.
 
 Day 5:  We used 10 familiar stimuli along with 10 novel images for 12 different noise patterns each presented once for each noise level.  
+
+
+
+
 
 
 Preliminary Analysis

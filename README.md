@@ -44,4 +44,12 @@ Day 5:   16 images (8 familiar, 8 “novel”),  15 noise patterns per noise lev
 ![](pictures/newTemporalDecode0Noise.png)
 
 
+
+![](pictures/PCAThirdDaySecondWindow.pdf)
+
+
+
+
+
+
 ![](pictures/0NoisePCAFirst300MSWindow.png)

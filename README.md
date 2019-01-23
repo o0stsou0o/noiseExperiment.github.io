@@ -33,4 +33,15 @@ Day 4:  Repeat Day 2.
 
 Day 5:   16 images (8 familiar, 8 “novel”),  15 noise patterns per noise level. 240 conditions for each level,  you have 240 x 4 = 960 conditions. Each condition repeated 4 times.  Stimulus. 
 
+
+
+![](pictures/newTemporalDecode60Noise.png)
+
+![](pictures/newTemporalDecode40Noise.png)
+
+![](pictures/newTemporalDecode20Noise.png)
+
+![](pictures/newTemporalDecode0Noise.png)
+
+
 ![](pictures/0NoisePCAFirst300MSWindow.png)

@@ -51,6 +51,12 @@ Day 5:  We used 10 familiar stimuli along with 10 novel images for 12 different 
 ========
 Preliminary Analysis
     ========
+    
+Temporal decoding was performed using SVM on 50 ms windows on training days.  
+
+An interesting finding is that in the decoding of 60% noise, when the noisy stimuli is removed, the decoding continues and there is an initial spike in decoding when the de-noised stimuli is presented.  
+
+In the decoding of the 0% noise, in the initial onset of stimuli, the post-training decoding is high immediately whereas it ramps up in the pre-training scenario.  
 
 ![](pictures/newTemporalDecode60Noise.png)
 

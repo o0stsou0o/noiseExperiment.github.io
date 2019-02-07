@@ -28,6 +28,10 @@ sample stimuli without noise
 
 ![](pictures/No_001.png)
 
+
+![](pictures/n01ap2521.bmp)
+sample 20% noise mask
+
 The experimental protocol is as follows: 
 Day 1: we did four tests to get baseline assessment of the cells: (1) mapping receptive fields of all the neurons using horizontal and vertical bars; (2)  testing their orientation tuning; (3) testing neural responses to 15 noise patterns  for each of the four noise levels (15 repeats) to see how the neurons responded to the noise patterns alone -- each of these 15 noise patterns will be superimposed on to images to be trained and tested; (4) test 50 stimuli x 15 noise patterns x 4 noise levels (0, 20, 40 and 60%)  (1 repeat) – this allows us to evaluate stimulus selectivity of the neurons at different noise levels (averaged across noise pattern per noise level).  XX + XX +  900 + 3000  trials.
 

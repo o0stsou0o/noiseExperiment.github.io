@@ -1,6 +1,6 @@
 Noise Experiment 
 ================
-
+=========
 Motivation/Introduction
        =========
 
@@ -16,6 +16,10 @@ We know repeated exposure to a set of stimuli will produce the familiarity effec
 
 
 
+
+
+
+========
 Method/Protocol
     ========
 
@@ -31,4 +35,31 @@ Day 3:   The same 10 stimuli, but in only two noise patterns, each presented 50 
 
 Day 4:  Repeat Day 2.
 
-Day 5:   16 images (8 familiar, 8 “novel”),  15 noise patterns per noise level. 240 conditions for each level,  you have 240 x 4 = 960 conditions. Each condition repeated 4 times.  Stimulus. 
+Day 5:  We used 10 familiar stimuli along with 10 novel images for 12 different noise patterns each presented once for each noise level.  
+
+
+
+
+
+========
+Preliminary Analysis
+    ========
+
+![](pictures/newTemporalDecode60Noise.png)
+
+![](pictures/newTemporalDecode40Noise.png)
+
+![](pictures/newTemporalDecode20Noise.png)
+
+![](pictures/newTemporalDecode0Noise.png)
+
+
+
+![](pictures/PCAThirdDaySecondWindow.pdf)
+
+
+
+
+
+
+![](pictures/0NoisePCAFirst300MSWindow.png)

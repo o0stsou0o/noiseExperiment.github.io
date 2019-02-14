@@ -44,6 +44,16 @@ Day 4:  Repeat Day 2.
 
 Day 5:  We used 10 familiar stimuli along with 10 novel images for 12 different noise patterns each presented once for each noise level.  
 
+========
+Data Location
+    ========
+    
+
+The data can be found in leelab@sparrowhawk.cnbc.cmu.edu in /home/leelab/noiseData 
+
+The files are for day 1: GA_2018_08_01_001.nev, GA_2018_08_01_002.nev, GA_2018_08_01_003.nev, GA_2018_08_01_004.nev.  For day 2, the files are GA_2018_08_02_001.nev, GA_2018_08_02_002.nev, GA_2018_08_02_003.nev, GA_2018_08_02_004.nev.  For day 3, the files are GA_2018_08_03_001.nev, GA_2018_08_03_002.nev, GA_2018_08_03_003.nev, GA_2018_08_03_004.nev.  For day 4, the files are GA_2018_08_04_001.nev, GA_2018_08_04_002.nev, GA_2018_08_04_003.nev, GA_2018_08_04_004.nev.  For day 5, the files are GA_2018_08_05_001.nev, GA_2018_08_05_002.nev, GA_2018_08_05_003.nev, GA_2018_08_05_004.nev.
+
+
 
 
 
